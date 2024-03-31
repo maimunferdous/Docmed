@@ -1,0 +1,60 @@
+@media only screen and (max-width: 768px){
+
+	/* Welcome Area Start */
+	.welcome-area .thumbnail{
+		width: 100%!important;
+		height: 500px!important;
+		margin-bottom: 30px;
+	}
+	.welcome-area .thumbnail .thumb_2{
+		display: none;
+	}
+
+	/* Banner Start */
+	.banner-area .b-slider{
+		height: 60vh!important;
+	}
+	.banner-area .s-content h1{
+		font-size: var(--size-xl)!important;
+	}
+	.banner-area .s-content h3{
+		font-size: var(--size-lg)!important;
+	}
+	.banner-area .s-content p{
+		font-size: var(--size-md)!important;
+	}
+	.banner-area .s-content .s-btn{
+		font-size: var(--size-md)!important;
+	}
+
+	/* Testimonial Area Start */
+	.testimonial-area .t-slider_1 .t-content{
+		width: 90%!important;
+	}
+
+	/* Business Expert Area Start */
+	.business-expert-area .nav-tabs-area{
+		padding: 0px 20px!important;
+	}
+	.business-expert-area .nav-tabs-area .nav-pills .nav-item .nav-link{
+		padding: 15px 85px 15px 25px!important;
+		font-size: var(--size-md)!important;
+	}
+
+	/* Emergency Contact*/
+	.emergencey-contact-area .emergencey-contact .ec-content .f-section{
+		display: flex;
+		flex-direction: column!important;
+	}
+	.emergencey-contact-area .emergencey-contact .ec-content .s-section{
+		display: flex;
+		flex-direction: column!important;
+	}
+
+	
+
+
+
+
+
+}
